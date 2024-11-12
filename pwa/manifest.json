@@ -1,0 +1,29 @@
+{
+    "name": "Hook Page",
+    "short_name": "Hook",
+    "description": "Page personalizada",
+    "background_color": "#5a4fcf",
+    "theme_color": "#5a4fcf",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+          "src": "../assets/images/pwa/icon.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+            "src": "../assets/images/pwa/icon1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "../assets/images/pwa/icon2.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+  }
